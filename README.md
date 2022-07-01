@@ -1,6 +1,6 @@
-# headuplab
+# DBS REACT NATIVE TEST
 
-Description here.
+For coding test
 
 ## Getting Started
 
